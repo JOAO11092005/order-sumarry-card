@@ -1,0 +1,68 @@
+@media (max-width: 1400px){
+    main{
+        top: 45%;
+    }
+    .image-order-sumary{
+     height: 80%;
+    }
+    .infor-plan-order-sumary > h1 {
+        padding-top: 30px;
+    }
+    .infor-plan-order-sumary > p{
+        padding-top: 10px;
+        width: 300px;
+    }
+    .infor-plan-order-sumary > button{
+        margin-top: 30px;
+    }
+    .infor-plan-order-sumary > a{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    footer{
+        display: none;
+    }
+}
+@media (max-width: 415px){
+    main{
+        top: 50%;  
+        width: 300px; 
+    }
+    .image-order-sumary{
+     height: 80%;
+    }
+    .infor-plan-order-sumary > h1 {
+        padding-top: 30px;
+        font-size: 17px;
+    }
+    .infor-plan-order-sumary > p{
+        padding-top: 30px;
+        font-size: 13px;
+        width: 240px;
+    }
+    .infor-plan-order-sumary > .plano-musica{
+        width: 270px;
+    }
+    .infor-plan-order-sumary > .plano-musica > .img-logo-music{
+        width: 40px;
+        margin-left: 5px;
+        height: 40px;
+    }
+    .infor-plan-order-sumary > .plano-musica > .infor-plan{
+      margin-right: 50px;
+    }
+    .infor-plan-order-sumary > .plano-musica > a{
+        right: 10px;
+    }
+    .infor-plan-order-sumary > button{
+        margin-top: 30px;
+        width: 250px;
+    }
+    .infor-plan-order-sumary > a{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    footer{
+        display: none;
+    }
+}
